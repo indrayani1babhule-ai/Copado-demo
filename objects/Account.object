@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
+        <fullName>Number_of_female_contact__c</fullName>
+        <externalId>false</externalId>
+        <label>Number of female contact</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Count_Of_closed_won_Opp__c</fullName>
         <externalId>false</externalId>
         <label>Count Of closed won Opp</label>
